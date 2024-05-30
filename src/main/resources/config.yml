@@ -1,0 +1,6 @@
+# Restrictions for enchanted book trades
+restrictions:
+  # Prevent villagers learning how to trade non-villager enchantments e.g. Soul Speed
+  disable-non-villager-enchants: true
+  # Prevent villagers learning how to trade books with multiple enchantments
+  disable-multi-enchants: false
